@@ -14,3 +14,6 @@ Oyunun ilk versiyonu olduğundan geliştirilebilir yönlerini aşağıdaki gibi 
 ***Süre sınırı koyulabilir.
 
 NOT:Yeni önerilerinizi eklemek isterseniz dosyayı düzenleyebilirsiniz.
+
+Oyunu indirmek için : 
+https://docs.google.com/file/d/0B9CwruBTM-uhcVdQRERoLWJhNGM/edit
